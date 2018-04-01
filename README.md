@@ -1,2 +1,2 @@
-# ds-bootcamp
-Gojel data science bootcamp project
+# Data science bootcamp
+Gojek data science bootcamp project
